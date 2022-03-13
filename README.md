@@ -1,2 +1,1 @@
-Simple_Shell
-Language C
+Simple_Shell in C language
